@@ -1,6 +1,6 @@
 # About
 
-Documentation for Data Viewer, You can get the latest version from [Blender Market](https://blendermarket.com/creators/cgpiece) or [Gumroad](https://cgpiece.gumroad.com/).
+[Documentation](https://leroy-x.github.io/data-viewer-docs/) for Data Viewer, You can get the latest version from [Blender Market](https://blendermarket.com/creators/cgpiece) or [Gumroad](https://cgpiece.gumroad.com/).
 
 # See more
 
